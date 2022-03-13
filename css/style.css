@@ -1,0 +1,19 @@
+
+
+.jumbotron {
+    background-image: url('viruses-bacteria-fungi.jpeg');
+    background-size: cover;
+    color: #f7f7f7;
+
+}
+
+
+.well {
+   background-color: #497eb9;
+   
+}
+
+.container{
+    color: rgb(28, 28, 128);
+};
+

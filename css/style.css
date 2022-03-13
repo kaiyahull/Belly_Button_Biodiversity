@@ -4,6 +4,7 @@
     background-image: url('viruses-bacteria-fungi.jpeg');
     background-size: cover;
     color: #f7f7f7;
+    font-family: Georgia;
 
 }
 
@@ -13,7 +14,14 @@
    
 }
 
+
 .container{
     color: rgb(28, 28, 128);
+  
+}
+
+.panel-title{
+    color: rgb(28, 28, 128);
+
 };
 
